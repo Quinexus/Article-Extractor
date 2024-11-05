@@ -5,11 +5,11 @@ Please review the data before using for any research.
 
 Follow the instructions given in the notebook
 
-##Required items:
+## Required items:
 - OpenAI api key
 - Text file of list of dois with each doi being on a separate line
 
-##Required inputs:
+## Required inputs:
 1. What data is needed to be extracted
 2. Prompts for the AI
 3. Which OpenAI model to use
