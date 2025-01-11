@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from openai import OpenAI
 client = OpenAI(api_key="") #Enter API key here
 
